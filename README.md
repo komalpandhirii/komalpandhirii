@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Komal Pandhiri
-- 🌱 I’m currently learning Mern Stack Development
 - 📫 You can reach me on komalpandhirii26@gmail.com
